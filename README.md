@@ -11,4 +11,4 @@ Replace ``<USERNAME>`` to your own github name and replace ``<PATH OF GENERATED 
 ```
 
 ## My Contribution snake example
-![Contribution snake example](https://github.com/InvalidLenni/InvalidLenni/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/lIlIlIIlIIlIIlI/lIlIlIIlIIlIIlI/blob/output/github-contribution-grid-snake.svg)
